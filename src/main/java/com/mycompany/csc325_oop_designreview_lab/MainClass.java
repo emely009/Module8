@@ -9,7 +9,7 @@ public class MainClass {
 
 	public static void main(String[] args) {
 
-		//Sets freshmen student with name and age
+		//Sets freshmen student with name, age and credits
 		Freshman std1 = new Freshman("James", (int)20,20);
 		//Sets senior student with name, age and credits
 		Senior std2 = new Senior("John", (int)30, 90);
